@@ -1,0 +1,13 @@
+*~
+*.cmd
+*.ko
+*.mod.c
+*.o
+.tmp_versions
+Module.symvers
+modules.order
+cscope.*
+*.swp
+kernel64-3.4.24.*
+*.bz2
+
